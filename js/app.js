@@ -4,7 +4,7 @@ var foodList = [
 		"name":"Dahi Puri",
 		"recipy":"Get puri, add some goodness, pour lots of dahi! Enjoy the meal",
 		"ingridients":["dahi","puri","chutny","lots of sev","hell lot of goodness"],
-		"imageUrl":"/img/dahi-puri.jpg"
+		"imageUrl":"../img/dahi-puri.jpg"
 	},
 	{
 		"name":"food2",
