@@ -1,0 +1,24 @@
+#food{
+	padding-top: 10px;
+	float: left;
+	padding-left: 10px;
+}
+#food>#name{
+	font-style: oblique;
+	font-size: large;
+	cursor: pointer;
+}
+#food>#img{
+	padding-top: 10px;
+	height: auto;
+	width: auto;
+}
+#food>#recipy{
+	padding-top: 10px;
+	color: #00c02f;
+}
+#food>#ingridients li{
+	padding-top: 2px;
+	color: #00cc00;
+	list-style-type: hiragana;
+}
